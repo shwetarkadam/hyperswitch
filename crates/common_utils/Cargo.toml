@@ -15,7 +15,7 @@ logs = ["dep:router_env"]
 [dependencies]
 async-trait = { version = "0.1.68", optional = true }
 bytes = "1.4.0"
-diesel = "2.1.0"
+diesel = "2.2.3"
 error-stack = "0.3.1"
 futures = { version = "0.3.28", optional = true }
 hex = "0.4.3"
