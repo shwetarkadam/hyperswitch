@@ -13,7 +13,7 @@ openapi = []
 payouts = []
 
 [dependencies]
-diesel = { version = "2.1.0", features = ["postgres"] }
+diesel = { version = "2.2.3", features = ["postgres"] }
 serde = { version = "1.0.193", features = ["derive"] }
 serde_json = "1.0.108"
 strum = { version = "0.25", features = ["derive"] }
